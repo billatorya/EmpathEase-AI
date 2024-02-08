@@ -38,7 +38,7 @@ Infused humanity & values into AI to do good for the betterment of our world. Hu
 ### Desired additional output: Context extraction
 *Aggregated (confidential) & objective (emotion-free) summary/context to support conflict mediation/resolution.*
 
-###Authors:
+### Authors:
 1. Sisi Florensia
 2. Nabila Victory A
 3. Philipp Katze
